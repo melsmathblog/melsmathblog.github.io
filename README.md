@@ -5,8 +5,7 @@ Hello! My name is Mealaud "Mel" Mokhtarzad and I'm a pure math major at UCLA (cl
 Sadly (though it worked fine for my most of my college career so far haha), I don't have notes for the first year of courses I took at UCLA, but I have notes starting fall of 2020, so our list will begin there. Before I list them, I'd like to remark that the notes I write are a mix between lecture notes and my own exposition on the topic. Hopefully it's helpful to you if you decide to reference or use them.
 
 **Fall 2020** <br/><br/>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Math 131AH - Honors Analysis: [Notes]() <br/><br/>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Math 110AH - Honors Algebra: [Notes]() <br/><br/>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Math 131AH - Honors Analysis: [Notes](https://github.com/melsmathblog/really-cool-analysis-notes) <br/><br/>
     
 **Winter 2021** <br/><br/>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Math 131BH - Honors Analysis: [Notes]() <br/><br/>
