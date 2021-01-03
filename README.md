@@ -10,6 +10,6 @@ Sadly (though it worked fine for my most of my college career so far haha), I do
 **Winter 2021** <br/><br/>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Math 114C - Computability Theory: [PDF]() [LaTeX]() <br/><br/>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Math 121 - Topology: [PDF]() [LaTeX]() <br/><br/>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Math 131BH - Honors Analysis: [PDF]() [LaTeX]() <br/><br/>    
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Math 131BH - Honors Analysis: [PDF]() [LaTeX]() <br/><br/>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Math 135 - ODEs: [PDF]() [LaTeX]() <br/><br/>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Math 170A - Probability Theory I: [PDF]() [LaTeX]() <br/><br/>
