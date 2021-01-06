@@ -15,4 +15,4 @@ Sadly (though it worked fine for my most of my college career so far haha), I do
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Math 170A - Probability Theory I: [PDF]() [LaTeX]() <br/><br/>
 
 # Blog post
-[test](.\_posts\2021-01-05-hello-world.md)
+Test
