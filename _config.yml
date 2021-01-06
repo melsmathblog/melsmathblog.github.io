@@ -1,6 +1,6 @@
 title: Mel's really, really cool math blog
 logo: /assets/img/image1.jpg
-description:
+description: [Click this to go to a 404 page.](.\_posts\2021-01-05-hello-world.md)
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
