@@ -9,10 +9,9 @@ Sadly (though it worked fine for my most of my college career so far haha), I do
 
 **Winter 2021** <br/><br/>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Math 114C - Computability Theory: [PDF]() [LaTeX]() <br/><br/>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Math 121 - Topology: [PDF]() [LaTeX]() <br/><br/>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Math 121 - Topology: [PDF](https://github.com/melsmathblog/class-notes/blob/master/math-121/main.pdf) [LaTeX](https://github.com/melsmathblog/class-notes/tree/master/math-121/chapters) <br/><br/>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Math 131BH - Honors Analysis: [PDF](https://github.com/melsmathblog/class-notes/blob/master/math-131abh/main.pdf) [LaTeX](https://github.com/melsmathblog/class-notes/blob/master/math-131abh/main.tex) <br/><br/>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Math 135 - ODEs: [PDF]() [LaTeX]() <br/><br/>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Math 170A - Probability Theory I: [PDF]() [LaTeX]() <br/><br/>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Philosophy 135 - Metalogic: [PDF]() [LaTeX]() <br/><br/>
 
 # Blog post
 Test
