@@ -14,8 +14,8 @@ Sadly (though it worked fine for my most of my college career so far haha), I do
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Philosophy 135 - Metalogic <br/><br/>
     
 **Spring 2021** <br/><br/>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Math 131C - Topics in Analysis: [PDF] (https://github.com/melsmathblog/class-notes/blob/master/math-131c/main.pdf) [LaTeX] (https://github.com/melsmathblog/class-notes/tree/master/math-131c/lectures) <br/><br/>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Math 132H - Complex Analysis: [PDF] (https://github.com/melsmathblog/class-notes/blob/master/math-132h/main.pdf) [LaTeX] (https://github.com/melsmathblog/class-notes/tree/master/math-132h/lectures) <br/><br/>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Math 131C - Topics in Analysis: [PDF](https://github.com/melsmathblog/class-notes/blob/master/math-131c/main.pdf) [LaTeX](https://github.com/melsmathblog/class-notes/tree/master/math-131c/lectures) <br/><br/>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Math 132H - Complex Analysis: [PDF](https://github.com/melsmathblog/class-notes/blob/master/math-132h/main.pdf) [LaTeX](https://github.com/melsmathblog/class-notes/tree/master/math-132h/lectures) <br/><br/>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Math 191 - Category Theory: <br/><br/>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Math 197 - Fourier Analysis: <br/><br/>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Math 199 - Applied math research: <br/><br/>
